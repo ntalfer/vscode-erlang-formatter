@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-TAG=1.3.0
+TAG=1.4.0
 DOWNLOAD=erlang-formatter-$TAG.tar.gz
 OUTDIR=erlang-formatter-$TAG
 
